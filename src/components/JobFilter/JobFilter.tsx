@@ -1,4 +1,4 @@
-import React, { useReducer, useState } from 'react';
+import React, { useReducer } from 'react';
 import { jobs as allJobs } from '../../data/jobs';
 import './JobFilter.css';
 import { Job } from '../../types/jobs';
